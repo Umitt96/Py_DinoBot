@@ -1,3 +1,4 @@
+# This code  was written by Ritalin
 from PIL import ImageGrab, ImageOps
 import pyautogui as pag
 import time
@@ -36,5 +37,5 @@ def Play():
             time.sleep(0.1)
             Clicker()
             
-
+# This code  was written by Ritalin
 Play()
